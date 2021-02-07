@@ -1,0 +1,10 @@
+Grid Line
+The term Grid line refers to the border between each grid item and makes up the structure 
+of the grid. Depending on whether they are vertical or horizontal, you can refer to them 
+as either column grid lines or row grid lines.
+grid-column-start, grid-column-end, grid-row-start, grid-row-end — Determines the position 
+of a grid item within the grid based on specific grid lines. grid-column-start/
+grid-row-start sets the line where the item begins, grid-column-end/grid-row-end is the 
+line where it ends.
+grid-column, grid-row — Shorthand for grid-column-start and grid-column-end as well as 
+grid-row-start and grid-row-end respectively.
