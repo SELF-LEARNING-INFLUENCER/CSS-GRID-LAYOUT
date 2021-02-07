@@ -1,0 +1,12 @@
+Aligning & justifing items:
+justify-items — Aligns all grid items in a container along the horizontal axis. Can align 
+them at the start, end, center, or stretch to fit.
+align-items — The same as justify-items but along the vertical axis.
+place-items — Sets align-items and justify-items in a single declaration.
+justify-content — Controls the alignment of the entire grid inside its container along the 
+horizontal axis with several options.
+align-content — Same as justify-content but for the vertical axis.
+place-content — Sets both of the last two properties in one declaration.
+justify-self — Aligns a single grid item inside its cell along the horizontal axis.
+align-self — The equivalent of justify-self but for the vertical axis.
+place-self — Sets both align-self and justify-self in one declaratio
