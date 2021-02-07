@@ -1,0 +1,10 @@
+Grid-Container
+This is the basic element that will hold your CSS grid. It will contain all the grid items 
+and is defined via display: grid.
+grid properties-
+display — This is what defines a container as a grid container. Takes either grid or 
+inline-grid.
+grid-template-raws— Defines the number and size of raw
+grid-column-gap, grid-row-gap — Controls the size of the gaps between columns and rows. 
+The grid- prefix will soon not be necessary anymore.
+grid-gap — Short version of grid-row-gap and grid-column-gap.
