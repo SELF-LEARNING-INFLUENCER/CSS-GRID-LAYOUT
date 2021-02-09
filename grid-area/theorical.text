@@ -1,0 +1,2 @@
+grid-area — Gives an item a name so that it can be manipulated with the grid-template-areas 
+property. 
